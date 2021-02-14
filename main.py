@@ -1,5 +1,6 @@
 #import pygame package after the installation
 import pygame
+# pour importer les class des autres fichiers
 from game import Game
 from player import Player
 pygame.init()
@@ -18,7 +19,6 @@ screen = pygame.display.set_mode((1080,720))
 
 background = pygame.image.load('assets/bg.jpg')
 
-
 #charger le jeu
 game = Game()
 
@@ -36,6 +36,15 @@ while running:
     #appliquer l'image de mon joueur
     screen.blit(game.player.image,game.player.rect)
 
+
+    #verifier si le joueur souhaite aller a gauche ou a droite
+    if game.pressed.get(pygame.K_RIGHT) and game.player.rect.x + game.player.rect.width < screen.get_width():
+        game.player.move_right()
+    elif game.pressed.get(pygame.K_LEFT) and game.player.rect.x>0:
+        game.player.move_left()
+
+    print(game.player.rect.x)
+
     #mettre à jour l'écran
     pygame.display.flip()
 
@@ -46,6 +55,11 @@ while running:
             running = False
             pygame.quit()
             print("fermeture du jeu")
+        #detecté si un joueur lache une touche du clavier
+        elif event.type == pygame.KEYDOWN:
+           game.pressed[event.key] = True
+        elif event.type == pygame.KEYUP:
+           game.pressed[event.key] = False
 
 
 
