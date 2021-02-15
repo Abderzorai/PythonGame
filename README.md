@@ -23,3 +23,9 @@ Zorai Abderrahman
 Screen shot Joueur
 
 ![image](https://github.com/Abderzorai/PythonGame/blob/main/screenshot.png)
+
+
+
+Tutoriel :
+
+https://www.youtube.com/watch?v=8J8wWxbAdFg&t=11s
