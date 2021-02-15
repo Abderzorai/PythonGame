@@ -17,9 +17,11 @@ class Player(pygame.sprite.Sprite):
         self.rect.x = 400
         self.rect.y = 500
 
+
     def lauch_projectile(self):
         #cree une new instance de la class projectile
-        self.all_projectiles.add(Projectile())
+        self.all_projectiles.add(Projectile(self))
+
 
 
     def move_right(self):
