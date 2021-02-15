@@ -19,4 +19,7 @@ Zorai Abderrahman
 
 ## Image du jeu 
 
-![image](https://github.com/Abderzorai/PythonGame/blob/main/assets/bg.jpg)
+
+Screen shot Joueur
+
+![image](https://github.com/Abderzorai/PythonGame/blob/main/screenshot.png)
