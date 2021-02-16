@@ -14,7 +14,7 @@ Création d'un jeu ou il faut attaquer les monstres et eviter les comêtes qui t
 Zorai Abderrahman
 
 
-### Image du jeu 
+### Image du jeu  :
 
 
 Screen shot Joueur
