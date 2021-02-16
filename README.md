@@ -1,4 +1,4 @@
-# PythonGame : Shooter
+# PythonGame : Shooter .
 
 Creation d'un petit jeu en Python, pour me familiariser avec les class et Pygame
 
