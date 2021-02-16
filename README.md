@@ -1,11 +1,11 @@
 # PythonGame : Shooter .
 
-Creation d'un petit jeu en Python, pour me familiariser avec les class et Pygame
+Creation d'un petit jeu en Python, pour me familiariser avec les class et Pygame.
 
 
 ### Description :
 
-Création d'un jeu ou il faut attaquer les monstres et eviter les comêtes qui tombe du ciel
+Création d'un jeu ou il faut attaquer les monstres et eviter les comêtes qui tombe du ciel.
 
 
 
