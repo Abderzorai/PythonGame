@@ -12,7 +12,7 @@
 
 ###  Dev :
 
-- Zorai Abderrahman.
+- Zorai Abderrahman
 
 
 ### Image du jeu  :
