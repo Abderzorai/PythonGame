@@ -11,6 +11,7 @@
 - Suivi d'un tutoriel
 - Amélioration de mon code
 - Utilisation et codage propre
+- Commentaire explicatif sur le code
 
 ###  Dev :
 
