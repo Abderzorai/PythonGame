@@ -7,7 +7,7 @@
 ### Description :
 
 - Création d'un jeu ou il faut attaquer les monstres et eviter les comêtes qui tombe du ciel.
-
+- Suivi d'un tutoriel
 
 
 ###  Dev :
