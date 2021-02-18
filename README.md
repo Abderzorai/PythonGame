@@ -12,6 +12,7 @@
 - Amélioration de mon code
 - Utilisation et codage propre
 - Commentaire explicatif sur le code
+- Faire en sorte de retrouver facilement ses repère si besoin de refaire les mêmes choses.
 
 ###  Dev :
 
