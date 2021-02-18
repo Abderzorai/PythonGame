@@ -2,6 +2,7 @@
 
 - Creation d'un petit jeu en Python, pour me familiariser avec les class et Pygame.
 - Apporter des modifications personnelles 
+- Trouver de nouveau fond et de nouvelles fonctionnalitée
 
 
 ### Description :
